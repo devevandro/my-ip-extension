@@ -3,7 +3,6 @@ body {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,8 +22,14 @@ h2 {
   font-weight: bold;
 }
 
-p {
-  margin-top: 20px;
+button {
+  border: none;
+  padding: 0;
+  color: transparent;
+  cursor: pointer;
+}
+
+span {
   font-size: 25px;
   color: #4682b4;
   font-weight: bold;

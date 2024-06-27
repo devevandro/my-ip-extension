@@ -1,0 +1,15 @@
+{
+    "name": "Meu IP",
+    "description": "Extensão para mostrar o IP do usuário",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "favicon"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "icon": "icon-world.png"
+    }
+}

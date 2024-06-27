@@ -1,0 +1,31 @@
+body {
+  font-family: "Archivo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #a20016;
+  font-weight: bold;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 25px;
+  color: #4682b4;
+  font-weight: bold;
+}

@@ -10,6 +10,8 @@
     ],
     "action": {
         "default_popup": "index.html",
-        "icon": "icon-world.png"
+        "default_icon": {
+            "16": "src/images/favicon-16x16.png"
+        }
     }
 }
